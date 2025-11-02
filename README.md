@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**pahkasoft/pahkasoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an independent software developer. I’ve been working on these projects for quite some time — some are over five years old. In summer 2025, I decided to go open source.
 
-Here are some ideas to get you started:
+### Resources
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Project repositories are available at this site.
+- Additional resources are available at [**pahkasoft.github.io**](https://pahkasoft.github.io/).
+- Published packages are available at [**npmjs.com/org/tspro**](https://www.npmjs.com/org/tspro).
+
+### The Name PahkaSoft
+
+The name **PahkaSoft** was chosen a little bit with a wink in the eye.
+
+> **Pahka** — *a natural wooden burl formed when a tree grows irregularly, creating dense, swirling grain patterns often prized for their unique beauty in woodworking.*  
+>
+> *It symbolizes **imperfection turned into strength and beauty**, a fitting metaphor for software that is **handcrafted, resilient, and organically complex.***  
+>
+> **Pronunciation:** /ˈpɑːkɑ sɒft/ — *PAH-kah-soft*
